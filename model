@@ -1,0 +1,6 @@
+codg de produto | nome | valor | qtn em estoque | vendas | setor | 
+
+pesquisar itens por setor
+
+
+'sqlite:///' + os.path.join(BASE_DIR, 'testserver.db')
